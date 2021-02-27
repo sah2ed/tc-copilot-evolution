@@ -2,7 +2,7 @@
 This ideation challenge is part of a project code-named: copilot evolution. 
 
 ## Challenge Summary
-Topcoder wants to evolve the role of copilots from its current form with fixed payments and no growth path, into a role with flexible payments and multiple growth paths. Copilots who acquire additional skills or display capacity to assume on additional responsibilities, deserve to be rewarded accordingly, with job roles and compensation that is commensurate with their contributions to the platform. 
+Topcoder wants to evolve the role of copilots from its current form with fixed payments and no growth path, into a role with flexible payments and multiple growth paths. A copilot who acquired additional skills or displays capacity to assume additional responsibilities, deserves to be rewarded accordingly, with a role and compensation that is commensurate with their contributions to the platform. 
 
 Although the evolution will make the role of copilots within the Topcoder community bear a lot of similarities to more conventional roles (i.e. salaried positions), there will be a number of differences, due to how software is built and delivered using the Topcoder platform. There is the expectation that at the end of the evolution effort, Topcoder will be able to advertise and hire people to work as copilots, using a conventional job opening. 
 
