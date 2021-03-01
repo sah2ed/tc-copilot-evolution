@@ -79,12 +79,14 @@ The pros succinctly summarize people's motivations for taking part in challenges
 Members that compete in Topcoder challenges are not full-time employees (FTEs) of Topcoder. This important distinction means that the issue of workplace inequality is non-existent, therefore, this con doesn't really apply to Topcoder because their business model relies on independent contractors, rather than FTEs.
 
 #### Con: Selfish and Unethical Behaviour
-Topcoder uses the mechanism of "contest administrators" [5] to mitigiate the effects of selfish and unethical behaviour. To maintain the integrity of challenges, Topcoder relies on pool of trusted members, selected from its large community to administer the different aspects of all challenges run on the platform. 
+Topcoder uses the mechanism of "contest administrators" [5] to mitigiate the effects of selfish and unethical behaviour. To maintain the integrity of challenges, Topcoder relies on pool of trusted members, selected from its large community to administer the *publicly visible* aspects of all challenges run on the platform. 
 
-To be selected as a contest administrator, a member must demonstrate a good understanding of how the Topcoder platform works, and must not have any history of unprofessional conduct that carry the penalty of a temporary of permanent ban. To determine whether a member meets the first quality, the current proxy of have achieved a certain level of success on the platform participated in the Topcoder fall into two broad categories:
-* reviewiers;
+To be selected as a contest administrator, a member must demonstrate a good understanding of how the Topcoder platform works, and must not have any history of unprofessional conduct that carries the penalty of a (permanent) ban. To determine whether a member meets the first quality, Topcoder maintains a "qualification criteria" that serves as a proxy for whether a member is elligible to become a contest administrator or not. 
+
+Topcoder contest administrators fall into two broad categories:
+* reviewiers and;
 * copilots.
-The first of these mechanisms is the use of reviewers, the second is the use of contest administrators, now known as copilots
+
 
 
 
