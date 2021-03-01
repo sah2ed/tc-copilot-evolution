@@ -58,6 +58,7 @@ In other words, one of the factors that makes a tournament interesting is that i
 - about as skilled as they are or; 
 - more skilled than they are. 
 
+## 2.1. Tournaments
 Tournaments afford participants (and its organizers) access to a diverse pool of fellow participants, colloquially referred to as "the crowd". 
 "Crowds" that exhibit this trait i.e. the relative differences between competing individuals is very uneven, are hard to recreate in a traditional workplace. 
 
@@ -75,33 +76,34 @@ The Wikipedia entry offers us [pros and cons](https://en.wikipedia.org/wiki/Tour
 
 The pros succinctly summarize people's motivations for taking part in challenges, which we have already been covered above. We will go over the cons in a bit more detail. 
 
-### 2.1. Con: Inequalities in the workplace
+### 2.1.1. Con: Inequalities in the workplace
 Members that compete in Topcoder challenges are not full-time employees (FTEs) of Topcoder. This important distinction means that the issue of workplace inequality is non-existent, therefore, this con doesn't really apply to Topcoder because their business model relies on independent contractors, rather than FTEs.
 
-### 2.2. Con: Selfish and Unethical Behaviour
+### 2.1.2. Con: Selfish and Unethical Behaviour
 Topcoder uses a mechanism called "community member roles" [7] to mitigiate the effects of selfish and unethical behaviour. To maintain the integrity of challenges, Topcoder relies on pool of trusted members, selected from its large community to administer the *publicly visible* aspects of all challenges run on the platform. 
 
 To be selected as a community member, a member must demonstrate a good understanding of how the Topcoder platform works, and must not have any history of unprofessional conduct that carries the penalty of a (permanent) ban. To determine whether a member meets the first quality, Topcoder uses a proxy that it calls "qualification requirements" or "eligibility requirements". 
 
-## 2.3. Qualification Requirements
+## 2.2. Qualification Requirements
 Topcoder community members fall into two broad categories:
 * a reviewier [5][6] and;
 * a copilot [5][6] (Topcoder's patents use the term "facilitator");
 
 so a consequence of this is that, Topcoder maintains two kinds of eligibility requirements documents, one for each role:
 * [Reviewer Qualification Requirements](https://www.topcoder.com/thrive/articles/Reviewer%20Qualification%20Requirements);
-* [Copilot Eligibility Requirements](https://topcoderinc.github.io/Corona2/topcoder/copilotsResponsiblites/#eligibility-requirements) 
+* [Copilot Eligibility Requirements](https://topcoderinc.github.io/Corona2/topcoder/copilotsResponsiblites/#eligibility-requirements); 
 
 but you will only be reviewing the eligibility requirements for copilots in this challenge.
 
-## 2.4. Training Requirements
+## 2.3. Training Requirements
 To ensure that trusted community members stay current with the latest processes/rules etc on the platform, Topcoder maintains another document called the [Copilot & Reviewer Certification Program](https://www.topcoder.com/thrive/articles/Copilot%20&%20Reviewer%20Certification%20Program), where new and existing community members can update their knowledge of the platform.
 
-The document's goals can be broadly grouped into three (3):
-* an Eligibility Requirements section - that contains the minimum criteria that must be met to become a Development, Design or Data Science copilot;
-* a Training Program section - that links to a unique set of training materials necessary to become a copilot or to remain in good standing;
+The document can be broadly grouped into three (3) sections:
+* an Eligibility Requirements section - listing the minimum criteria that must be met to become a Development, Design or Data Science copilot;
+* a Training Program section - that will link to a unique set of training materials necessary to become a copilot, or to remain in good standing;
 * a Certification Program section - to provide clear expectations of the [roles and responsibilities](https://www.topcoder.com/thrive/articles/Copilot%20Playbook) of a copilot.
 
+# Challenge Task
 
  
 
