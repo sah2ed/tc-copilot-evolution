@@ -27,27 +27,31 @@ The [first challenge](https://www.topcoder.com/challenges/cf15e634-251d-48cb-bf9
 - Architect / Project Manager
 
 In this challenge, we want you to group copilot skills into meaningful buckets, then map each skill to an appropriate role, for example:
- 
+
+Management skills:
 - Management Level 1: Proven Skills X Y Z
 - Management Level 2: Proven Skills P Q R
 - Management Level 3: Proven Skills A B C
- 
+
+Technical skills:
 - Technical Level 1: Topcoder Rating X
 - Technical Level 2: Topcoder Rating Y
 - Technical Level 3: Topcoder Rating Z
- 
+
+Non-technical skills:
 - Non-technical Level 1: Design Criteria J
 - Non-technical Level 2: Design Criteria K
 - Non-technical Level 3: Design Criteria L
  
-The idea here is that, instead of moving between levels directly (i.e. in a sequence) you would determine the minimum set of skills required to attain a level.
+The idea here is that, instead of moving between levels directly (i.e. in a sequence) you would determine the minimum set of skills required to attain a role.
  
-Junior Copilot - Technical Level 1
-Medior Copilot - Technical Level 1 + Management Level 1 + ... + Level 1
-Senior Copilot - (Technical Level 1 + Management Level 2) or (Technical Level 2 + Management Level 1) + ... + Level 1 + Level 2
-Lead Copilot - Technical Level 2 + Management Level 2 + etc Level 2 or etc Level 2
-Project Manager - Technical Level 2 + Management Level 3 + etc…
-Architect - Technical Level 3 + Management Level 2 + etc
+In other words, you would be creating a system that maps a minimum set of skills necessary to qualify for each role:
+- Junior Copilot - Technical Level 1
+- Medior Copilot - Technical Level 1 + Management Level 1 + ... + Level 1
+- Senior Copilot - (Technical Level 1 + Management Level 2) or (Technical Level 2 + Management Level 1) + ... + Level 1 + Level 2
+- Lead Copilot - Technical Level 2 + Management Level 2 + etc Level 2 or etc Level 2
+- Project Manager - Technical Level 2 + Management Level 3 + etc…
+- Architect - Technical Level 3 + Management Level 2 + etc
  
 So, different combinations can be used to climb the scale of responsibility and remuneration.
 
