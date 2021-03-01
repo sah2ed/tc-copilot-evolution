@@ -6,14 +6,18 @@ Topcoder wants to evolve the role of copilots from its current form with fixed p
 
 The evolution will make the role of copilots within the Topcoder community bear a lot of similarities to more conventional roles outside of Topcoder (i.e. salaried positions), but there will be a number of differences, due to the pecularities of the Topcoder platform. There is the expectation that at the end of the evolution effort, Topcoder will be able to use conventional job adverts to hire people into the copilot role.
 
+## Challenge Introduction
+To increase the chances of success for the evolution effort, Topcoder is exploring two different approaches.
+
+The first approach is being explored via a separate challenge [Topcoder Copilot Evolution Ideation Challenge Series Part 1 - Hierarchical levels](https://www.topcoder.com/challenges/cf15e634-251d-48cb-bf92-8b72e66c9246) that asks members to offer proposals based on a grade-based or hierarchical system with 5 levels. In this approach, a newcomer to the copilot role would start from level 1 and slowly work their way up to level 5.
+
+The second approach, which will be explored in this challenge, will explore the use of a skill-based framework.
+
 
 ## Challenge Objective
-In this challenge, we'd like you to generate ideas and prepare a proposal that can be used to evolve the copilot role using a skill-based framework.
+Using a skill-based framework, we would like you to generate ideas and prepare a proposal that can be used to evolve the copilot role.
 
-
-~Topcoder wants to evolve the role of copilots within the Topcoder community into a much more traditional role, similar to a salaried job. Their thesis is that, by standardizing the copilot role, they'll be able to advertise and hire people to work as copilots, like any other job opening.~
-
-There are several assumptions baked into this thesis that will lead to problems if not properly addressed, which is why we are turning to the broader Topcoder community for help. To properly understand what this evolution project is about, it is important to review what role copilots currently play at Topcoder, and contrast it with what is obtainable in the technology industry.
+To properly understand what this evolution project is about, it is important to review what role copilots currently play at Topcoder, and contrast it with what is obtainable in the technology industry.
 
 ## Background
 The role that is currently referred to as a "copilot" within the Topcoder community, is roughly equivalent to the "technical lead" or "tech lead" (or sometimes "dev lead") designation used in the technology industry.
