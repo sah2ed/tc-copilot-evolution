@@ -29,7 +29,7 @@ The role that is currently referred to as a "copilot" within the Topcoder commun
 
 > A technical lead needs to have a great deal of professional experience in software development and a deep understanding of technology, but they should also be personable and capable enough to effectively lead a team and collaborate with others.
 
-Now that we have an idea of what a tech lead is, we need to situate their role in the context of an organization with several employees. In other words, even though tech leads often work with developers, they usually have to collaborate with other roles like engineering managers, project managers etc.
+Now that we have an idea of what a tech lead is, we need to situate their role in the context of an organization with several members. In other words, even though tech leads often work with developers, they usually have to collaborate with other roles like engineering managers, project managers etc.
 
 ### Where does a tech lead function?
 The [Engineering Ladders](http://www.engineeringladders.com/) website, which is open source and maintained on GitHub by [@jorgef/engineeringladders](https://github.com/jorgef/engineeringladders), contains a framework that will help us properly contextualize the role of a tech lead in a large organization. They introduce the concept of a [career ladder](https://github.com/jorgef/engineeringladders/blob/539288966a16019f894b05b024db2ab6eaa310fe/README.md#career-ladders) consisting of four (4) rungs:
@@ -65,22 +65,23 @@ Although this model of using "crowds" to accomplish challenging tasks is now wha
 
 > Tournament theory is the theory in personnel economics used to describe certain situations where wage differences are based not on marginal productivity but instead upon relative differences between the individuals.
 
-The Wikipedia entry offers us [pros and cons](https://en.wikipedia.org/wiki/Tournament_theory#Pros_and_Cons_of_Workplace_Tournaments) that we will examine in detail:
+The Wikipedia entry offers us [pros and cons](https://en.wikipedia.org/wiki/Tournament_theory#Pros_and_Cons_of_Workplace_Tournaments) that should be familiar to anyone who has spent a considerable amount of time participating in Topcoder challenges:
 
-#### Pro: Incentivizing Performance
-Tournaments can be very powerful at incentivising performance. Empirical research in economics and managements have shown that tournament-like incentive structure increases the individual performance or workers and managers in the workplace.
+* Pro - Incentivizing Performance: Tournaments can be very powerful at incentivising performance. Empirical research in economics and managements have shown that tournament-like incentive structure increases the individual performance or workers and managers in the workplace.
+* Pro - Matching workers and jobs: Tournaments play an important function in matching workers with jobs that are relevant/appropriate. The theoretical prediction in the literature is that higher-skilled individuals would be sorted into jobs that offer higher potential returns.
+* Con - Inequalities in the workplace: Tournaments have the potential to create large inequalities in payoffs. Incentive based tournaments are organised in such a way that some winners are created at the expense of many losers. Thus, by design there are likely to be high inequalities in payoffs in the workplace under a tournament structure. 
+* Con - Selfish and Unethical Behaviour: A major issue with tournaments is that individuals are incentivised to view others as competitors, thus encouraging selfish behaviour. This means that participants in a tournament structured workplace would be less likely to help each other and are discourage from knowledge sharing more so than in other incentive schemes. Further, tournaments may also encourage unethical behaviour in participants such as cheating or collusion in competitive sports or plagiarism in the academic field. 
 
-#### Pro: Matching workers and jobs
-Tournaments play an important function in matching workers with jobs that are relevant/appropriate. The theoretical prediction in the literature is that higher-skilled individuals would be sorted into jobs that offer higher potential returns.
+
+The pros succinctly summarize people's motivations for taking part in challenges, which we have already been covered above. We will go over the cons in a bit more detail. 
 
 #### Con: Inequalities in the workplace
-Tournaments have the potential to create large inequalities in payoffs. Incentive based tournaments are organised in such a way that some winners are created at the expense of many losers. Thus, by design there are likely to be high inequalities in payoffs in the workplace under a tournament structure. 
+Members that compete in Topcoder challenges are not full-time employees (FTEs) of Topcoder. This important distinction means that the issue of workplace inequality is non-existent, therefore, this con doesn't really apply to Topcoder because their business model relies on independent contractors, rather than FTEs.
 
 #### Con: Selfish and Unethical Behaviour
-A major issue with tournaments is that individuals are incentivised to view others as competitors, thus encouraging selfish behaviour. This means that participants in a tournament structured workplace would be less likely to help each other and are discourage from knowledge sharing more so than in other incentive schemes. Further, tournaments may also encourage unethical behaviour in participants such as cheating or collusion in competitive sports or plagiarism in the academic field. 
+Topcoder uses two mechanisms to mitigiate the effects of selfish and unethical behaviour.
 
-
-
+The first of these mechanisms is the use of reviewers, the second is the use of contest administrators, now known as copilots
 
 
 
