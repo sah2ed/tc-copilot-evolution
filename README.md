@@ -16,7 +16,42 @@ The second approach, which will be explored in this challenge, will explore the 
 # Challenge Objective
 Using a skill-based framework, we would like you to generate ideas and prepare a proposal that can be used to evolve the copilot role.
 
-To properly understand what this evolution project is about, it is important to review what role copilots currently play at Topcoder, and contrast it with what is obtainable in the technology industry.
+To properly understand what this evolution project is about, it is important to review what role copilots currently play at Topcoder, and contrast it with what is obtainable in the technology industry. Please refer to sections 1.0 - 3.0 below.
+
+# Challenge Requirements
+The [first challenge](https://www.topcoder.com/challenges/cf15e634-251d-48cb-bf92-8b72e66c9246) mentions a tentative system with 5 levels, with the entry level being level 1 (Junior Copilot) and the final level being level 5, where the role title will either be a Project Manager or a Technical Architect:
+- Junior Copilot
+- Medior Copilot
+- Senior Copilot
+- Lead Copilot
+- Architect / Project Manager
+
+In this challenge, we want you to group copilot skills into meaningful buckets, then map each skill to an appropriate role, for example:
+ 
+- Management Level 1: Proven Skills X Y Z
+- Management Level 2: Proven Skills P Q R
+- Management Level 3: Proven Skills A B C
+ 
+- Technical Level 1: Topcoder Rating X
+- Technical Level 2: Topcoder Rating Y
+- Technical Level 3: Topcoder Rating Z
+ 
+- Non-technical Level 1: Design Criteria J
+- Non-technical Level 2: Design Criteria K
+- Non-technical Level 3: Design Criteria L
+ 
+The idea here is that, instead of moving between levels directly (i.e. in a sequence) you would determine the minimum set of skills required to attain a level.
+ 
+Junior Copilot - Technical Level 1
+Medior Copilot - Technical Level 1 + Management Level 1 + ... + Level 1
+Senior Copilot - (Technical Level 1 + Management Level 2) or (Technical Level 2 + Management Level 1) + ... + Level 1 + Level 2
+Lead Copilot - Technical Level 2 + Management Level 2 + etc Level 2 or etc Level 2
+Project Manager - Technical Level 2 + Management Level 3 + etc…
+Architect - Technical Level 3 + Management Level 2 + etc
+ 
+So, different combinations can be used to climb the scale of responsibility and remuneration.
+
+
 
 ## 1.0. Background
 The role that is currently referred to as a "copilot" within the Topcoder community, is roughly equivalent to the "technical lead" or "tech lead" (or sometimes "dev lead") designation used in the technology industry.
@@ -85,7 +120,7 @@ Topcoder uses a mechanism called "community member roles" [7] to mitigiate the e
 To be selected as a community member, a member must demonstrate a good understanding of how the Topcoder platform works, and must not have any history of unprofessional conduct that carries the penalty of a (permanent) ban. To determine whether a member meets the first quality, Topcoder uses a proxy that it calls "qualification requirements" or "eligibility requirements". 
 
 ## 2.2. Qualification Requirements
-Topcoder community members fall into two broad categories:
+Topcoder community member roles fall into two broad categories:
 * a reviewier [5][6] and;
 * a copilot [5][6] (Topcoder's patents use the term "facilitator");
 
@@ -103,14 +138,8 @@ The document can be broadly grouped into three (3) sections:
 * a Training Program section - that will link to a unique set of training materials necessary to become a copilot, or to remain in good standing;
 * a Certification Program section - to provide clear expectations of the [roles and responsibilities](https://www.topcoder.com/thrive/articles/Copilot%20Playbook) of a copilot.
 
-# Challenge Task
 
- 
-
-
-
-
-## 4.0. Additional Reading
+## 3.0. Additional Reading
 1. [Indeed](https://www.indeed.com/)
 
 1b. https://www.indeed.com/career-advice/finding-a-job/technical-lead
