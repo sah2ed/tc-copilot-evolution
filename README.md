@@ -79,8 +79,11 @@ The pros succinctly summarize people's motivations for taking part in challenges
 Members that compete in Topcoder challenges are not full-time employees (FTEs) of Topcoder. This important distinction means that the issue of workplace inequality is non-existent, therefore, this con doesn't really apply to Topcoder because their business model relies on independent contractors, rather than FTEs.
 
 #### Con: Selfish and Unethical Behaviour
-Topcoder uses two mechanisms to mitigiate the effects of selfish and unethical behaviour.
+Topcoder uses the mechanism of "contest administrators" [5] to mitigiate the effects of selfish and unethical behaviour. To maintain the integrity of challenges, Topcoder relies on pool of trusted members, selected from its large community to administer the different aspects of all challenges run on the platform. 
 
+To be selected as a contest administrator, a member must demonstrate a good understanding of how the Topcoder platform works, and must not have any history of unprofessional conduct that carry the penalty of a temporary of permanent ban. To determine whether a member meets the first quality, the current proxy of have achieved a certain level of success on the platform participated in the Topcoder fall into two broad categories:
+* reviewiers;
+* copilots.
 The first of these mechanisms is the use of reviewers, the second is the use of contest administrators, now known as copilots
 
 
@@ -94,3 +97,4 @@ The first of these mechanisms is the use of reviewers, the second is the use of 
 
 4.0. [Tournament theory](https://en.wikipedia.org/wiki/Tournament_theory)
 
+5.0. [Systems and methods for screening submissions in production competitions](https://patents.justia.com/patent/10783458), May 1, 2006 - TopCoder, Inc. 
