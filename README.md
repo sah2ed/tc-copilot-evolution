@@ -55,6 +55,17 @@ In other words, you would be creating a system that maps a minimum set of skills
  
 So, different combinations can be used to climb the scale of responsibility and remuneration.
 
+# Challenge Deliverables
+We are looking for innovative ideas! We expect to receive a lot of submissions in this challenge, so it is important to structure your ideas so they are clear and easy to understand. In your proposal, please be sure to follow the format suggested below:
+
+* Title: A short and clear title for your proposal
+* Abstract: High-level overview of your proposal in one or two sentences
+* Details: The proposal itself. Diagrams and sketches or even clickable prototypes that will better explain your proposal are encouraged.
+
+Please submit your proposal in MS Word, PDF, HTML, or Markdown format.
+If you create any diagrams, please sure to include the original source files (in Adobe PS, AI, XD, Sketch, Figma, etc).
+
+
 
 
 ## 1.0. Background
